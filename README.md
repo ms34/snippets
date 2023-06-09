@@ -1,6 +1,6 @@
 # Snippets
 
-code highlighting Web API with Django REST framework
+Code highlighting Web API with Django REST framework
 
 ### Installation
 
@@ -14,11 +14,11 @@ Git clone this repo to your PC
 
 Create a virtual environment
 
-    For Linux an mac
-    $ python3 -m  venv env && source .env/bin/activate
-
     For Windows
     $ python -m  venv env && .\env\Scripts\activate  
+
+    For Linux an mac
+    $ python3 -m  venv env && source .env/bin/activate
 
 Install dependencies
 
