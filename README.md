@@ -1,4 +1,4 @@
-# snippets
+# Snippets
 
 code highlighting Web API with Django REST framework
 
