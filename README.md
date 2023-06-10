@@ -27,7 +27,7 @@ Install dependencies
 Make migrations & migrate
 
     $ python manage.py makemigrations snippets
-    $ python manage.py migrate snippets
+    $ python manage.py migrate
 
 Create Super user
 
